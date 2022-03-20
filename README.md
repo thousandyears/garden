@@ -1,3 +1,11 @@
 _Futures worth wanting cannot be developed, implemented or delivered. They can only be gardened, nurtured or cultivated._
 
-[work in progress]
+Our age may well go down in history for its waking up to sustainability and its dependance on diversity. Today, the link between diversity and survival can no longer be ignored. In nature, loss of diversity is punished by the collapse of ecosystems, the extinction of species and the failure of immune response. In economy, failure to diversify leads to monopolies, market crashes, and outdated business models. Lack of diversity in political representation and popular opinion paves the way to intolerance, oppression and the many forms of discrimination.
+
+Discrimination according to race, class and gender, in particular, teaches us bitter historical lessons about the role of language in the cultural loss of diversity. When the dominant system of values imposes its terminology on everyone, everyone loses out in the long run, often with disastrous consequences. We find it poignant today when we learn that oppressed are sometimes unable to even think for themselves in their own terms, let alone express their opinion and values. Only, rather than this being a historical malady, safely tucked away in the annals of time, it is much more likely that we lack the perspective to see ourselves unwittingly participating in modern forms of these same ancient disasters.
+
+Software engineering suffused in a corporate culture worries about "development", "implementation", and "delivery". This is not a native language of engineering, or design, or data analysis, or quality assurance. These terms assume the necessity of "signing off" every investment of thought, time and effort and depict a unidirectional flow of "requirements" that largely coincides with the line of reporting and the directed graph of the org chart. When we then think of our daily work in these same terms, we find "signing off" to be the most natural fact of working life. 
+
+At the same time, corporate culture celebrates creativity and innovation as predicates of agile adaption to the ever-faster changing horizon of opportunities and challenges. Only, businesses invariably find their investments in fostering a culture of innovation unsustainable, yielding short-term results at best. This should not be that surprising given the widespread and chronic loss of diversity brought about by the colonising top-down perspective, values and terminology. As before, everyone loses out.
+
+[very much work in progress]
