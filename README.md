@@ -1,3 +1,5 @@
+# Thousand Years Manifesto
+
 _Futures worth wanting cannot be developed, implemented or delivered. They can only be gardened, nurtured or cultivated._
 
 Our age may well go down in history for its waking up to sustainability and its dependance on diversity. Today, the link between diversity and survival can no longer be ignored. In nature, loss of diversity is punished by the collapse of ecosystems, the extinction of species and the failure of immune response. In economy, failure to diversify leads to monopolies, market crashes, and outdated business models. Lack of diversity in political representation and popular opinion paves the way to intolerance, oppression and the many forms of discrimination.
@@ -29,11 +31,11 @@ Implement someone's requirements and you expressed their ideas for one day. Avai
 - Innovation everywhere and everywhen.
 - Centres of excellence and talent magnets.
 
-Pushing the analogy of a guardian a little further, we can also see how parenting provides us with the relevant "prior art" and intuition about such alternative modes of organisation in the sense that the ultimate parental goal is the child's independence – especially from oneself. The parent thus works tirelessly to provide a developmental environment where the child can safely explore their own identity and become themselves, at their own pace, on their own terms.
+Pushing the analogy of a guardian a little further, we can also see how parenting provides us with the relevant "prior art" and an intuition about such alternative modes of organisation in the sense that the ultimate parental goal is the child's independence – especially from oneself. The parent thus works tirelessly to provide a developmental environment where the child can safely explore their own identity and become themselves, at their own pace, on their own terms.
 
 Similarly, we believe that evangelising the values of diversity and innovation can be powerfully complemented by careful design of affordances that tip the scales of opportunities and risks in favour of nurturing diversity and innovation as an integral part of "the business as usual". 
 
-We focus on designing tools specially adapted to the needs of different domains of expertise that prove irresistible to use because they empower our colleagues to get their job done with greater autonomy, expressivity and efficacy. Yet, by adopting and shaping these tools to their own ends, the users of our tools also allow the values of diversity and innovation to deeply inform their daily work.
+Rather than software development, we focus on software gardening by designing tools specially adapted to the needs of different domains of expertise that prove irresistible to use because they empower the experts to get their job done with greater autonomy, expressivity and efficacy. Yet, by adopting and shaping these tools to their own ends, the users of our tools also allow the values of diversity and innovation to deeply inform their daily work.
 
 These are some of our first projects, with many more to come:
 - [MindFlare](https://screensailor.github.io/MindFlare/)
