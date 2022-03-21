@@ -30,6 +30,6 @@ This simple motto leads to a range of desirable outcomes:
 - Ever-increasing expertise across domains
 - Centres of excellence & talent magnets
 
-We celebrate of diversity by _preferring the majority of everybody, over the majority of the mainstream_.
+We celebrate diversity by _preferring the majority of everybody, over the majority of the mainstream_.
 
 [very much work in progress]
