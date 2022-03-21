@@ -18,6 +18,6 @@ Of course, the privileged few org chart types that we typically see are also the
 
 Are there any alternatives? Are there feasible modes of organisation where one only ever sings off one's own work?
 
-_Thousand Years is a sanctuary for visions of corporate cultures where the purpose of typical work would be to empower other colleagues to express their domains of expertise as independently as possible – especially from ourself._
+_Thousand Years is a sanctuary for visions of corporate cultures where the purpose of typical work would be to empower our colleagues to express their domains of expertise as independently as possible – especially from ourself._
 
 [very much work in progress]
