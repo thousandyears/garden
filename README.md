@@ -14,6 +14,10 @@ We may similarly think of the org chart as a dependency tree, bringing to mind a
 
 One or two of these points of view are so dominant, however, that no other org charts ever see the light of day. Because of this, some very real dependencies are seldom, if ever, recognised and thought about. Among the neglected dependencies, perhaps the most important ones are the ones that point in the opposite direction from the flow of "requirements". When we "require" a feature to be designed or built, we are in fact expressing a dependance on our colleagues to implement our ideas. 
 
-Of course, the privileged few org chart types that we typically see are also the charts of privilege. They tend to closely reflect our ideas about career progression and contribution metrics. Yet, the higher we are on this career ladder, the greater the distance between our ideas and their real-world expression. And so, in the typical case, assuming that "signing off" is the only possible mode of organisation leads to loss of expressivity for all: Those that "require" cannot express their ideas themselves, and those that "implement" do not express their own ideas.
+Of course, the privileged few org chart types that we typically see are also the charts of privilege. They tend to closely reflect our ideas about career progression and contribution metrics. Yet, the higher we are on this career ladder, the greater the distance between our ideas and their real-world expression. And so, in the typical case, the underlying assumption that "signing off" is the only possible mode of organisation leads to loss of self-expression for all: Those that "require" cannot express their ideas themselves, and those that "implement" do not express their own ideas. This becomes ever more frustrating and depressing with each additional degree of separation between an idea and its expression.
+
+Are there any alternatives? Are there feasible modes of organisation where one only ever sings off one's own work?
+
+_Thousand Years is a sanctuary for visions of corporate cultures where the purpose of typical work would be to empower other colleagues to express their domains of expertise as independently as possible – especially from ourself._
 
 [very much work in progress]
