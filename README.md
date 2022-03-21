@@ -20,14 +20,13 @@ Are there any alternatives? Are there feasible modes of organisation where one o
 
 _Thousand Years is a sanctuary for the visions of sustainable corporate cultures where the purpose of typical work is to empower our colleagues to express their domains of expertise as independently as possible – especially from ourself. We thus celebrate diversity by preferring the majority of everybody over the majority of the mainstream._
 
-This simple motto leads to a range of desirable outcomes:
+Implement someone's requirements and you expressed their ideas for one day. Avail them of affordances to express their own ideas, and you free them for a lifetime. This simple motto yields a range of very desirable outcomes:
 
-- Unprecedented velocity through decoupling & parallelism
-- Innovation everywhere & everywhen
-- Exponential growth of composable solutions
-- Uncompromising modularity & extensibility
-- Ever-decreasing cost & risk of change & experimentation
-- Ever-increasing expertise across domains
-- Centres of excellence & talent magnets
+- Unprecedented velocity through decoupling and parallelism.
+- Exponential growth of composable solutions.
+- Ever-decreasing cost and risk of change and experimentation.
+- Ever-increasing expertise across domains.
+- Innovation everywhere and everywhen.
+- Centres of excellence and talent magnets.
 
-[very much work in progress]
+Pushing the analogy of a guardian a little further, we can also see how parenting provides us with the relevant "prior art" and intuition about such alternative modes of organisation in the sense that the ultimate parental goal is the child's independence – especially from oneself.
