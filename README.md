@@ -52,10 +52,12 @@ This decoupling of the design system from the engineering leads to a dramatic lo
 
 Notice the recursion. In a sense, the engineer is working on an editor that the UI designer is using to work on an editor that the UX designer is using to work on an editor that the business analyst is using... and so on... all the way to the end user, who is similarly empowered to continuously express their preferences. Each in their turn are thus empowered to explore their own identity and become themselves, at their own pace, on their own terms.
 
+Implementation-wise, this focus on human creativity resonates with a number of areas of cutting edge development, such as knowledge graphs, semantic computing and explainable AI, as well as distributed ledgers, smart contracts and decentralised applications.
+
 So how can we start gardening today, working our way up to such practices as Algorithmic Design?
 
 The painful history of discrimination teaches us that we are unlikely to get very far with "monolingual" corporate cultures and colonising taxonomies. Yet, diversity is a quality of systems, not chaos. It depends on the presence of rich and subtle forms of communication. It describes a network of couplings with open-ended and evolving degrees of freedom, not a collection of isolated islands. Diversity is romantic. It is a romance of social responsibility and personal freedom that transcends the political spectrum of left and right. It is a romantic appreciation of life, where I am so much, much, much more in the context of billions of other souls. I can conceive of, feel and hope for so much more than I ever could without them. I only become more of myself by helping others to pursue their own otherwise.
 
-To start gardening today, then, we need languages that can express diversity. To this end we have begun with the following foundational open source technologies:
+To start gardening today, then, we need languages that can express diversity. To this end we have begun with the following foundational open source technologies to encourage ontology-led development:
 - [Lexicon](https://github.com/thousandyears/Lexicon): A specification for shared indefinitely evolving languages that nurture diversity of dialects by enticing contributions from the native speakers of each domain of expertise in an organisation.
 - [MindFlare](https://thousandyears.co.uk/MindFlare): A lexicon editor.
