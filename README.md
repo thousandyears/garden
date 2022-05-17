@@ -52,7 +52,7 @@ This decoupling of the design system from the engineering leads to a dramatic lo
 
 Notice the recursion. In a sense, the engineer is working on an editor that the UI designer is using to work on an editor that the UX designer is using to work on an editor that the business analyst is using... and so on... all the way to the end user, who is similarly empowered to continuously express their preferences. Each in their turn are thus empowered to explore their own identity and become themselves, at their own pace, on their own terms.
 
-Implementation-wise, this focus on human creativity and evolving communal identities resonates with a number of areas of cutting edge development, such as knowledge graphs, semantic computing and explainable AI, as well as distributed ledgers, smart contracts and decentralised applications.
+Implementation-wise, this focus on human creativity and evolving communal identities resonates with a number of areas of cutting edge development, such as knowledge graphs, symbolic regression and explainable AI, as well as distributed ledgers, decentralised applications and federated learning.
 
 So how can we start gardening today, working our way up to such practices as Algorithmic Design?
 
